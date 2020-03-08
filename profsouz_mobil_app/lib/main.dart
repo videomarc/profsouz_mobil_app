@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+// проверка версий
+// новая проверка версий
+
 
 void main() => runApp(MyApp());
 
